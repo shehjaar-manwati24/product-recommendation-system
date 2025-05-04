@@ -82,3 +82,6 @@ Thumbs.db
 # Ignore secrets
 *.env
 .env.* 
+
+Electronics.json
+meta_Electronics.json
